@@ -32,6 +32,3 @@ ClauseWise is a full-stack AI-powered web app that simplifies legal document rev
 - HuggingFace Transformers (Fallback NLP)
 
 ---
-
-## 📁 Project Structure
-
